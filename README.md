@@ -1,7 +1,7 @@
-# Long-distance Relationships
+# Communication Responsiveness and Relationship Satisfaction in Long-Distance Relationships
 ## Overview
 This repository contains the published HTML version of my PSY 120L final reproducible report.
-This project examined how perceived communication responsiveness in long-distance romantic relationships affects relationship satisfaction. It also examined whether this effect differs based on attachment style and prior long-distance relationship experience.
+This project examined how perceived communication responsiveness affects relationship satisfaction in long-distance romantic relationships. It also examined whether this effect differs based on attachment style and prior long-distance relationship experience.
 ## Report
 The published report is available through GitHub Pages.
 ## Tools
